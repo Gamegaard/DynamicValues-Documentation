@@ -1,4 +1,4 @@
-# Guia Inicial
+# Guia de Uso
 
 ## Configuração Básica
 
