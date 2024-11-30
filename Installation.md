@@ -1,6 +1,3 @@
-Segue a versão revisada para o documento **Instalação.md** com ícones e uma seção de extras no final:
-
-```markdown
 # 🚀 Instalação
 
 ---
@@ -60,14 +57,3 @@ Se encontrar problemas:
 - Envie uma issue no [GitHub](https://github.com/Gamegaard/DynamicValues/issues).
 
 ---
-
-Agora você está pronto para usar o **Sistema de Modificadores para Unity** no seu projeto! 🎉
-```
-
-Essa versão inclui ícones para identificar rapidamente os métodos de instalação e destaca os "Extras" para facilitar o entendimento. 
-
-1. **Ícones adicionados:** Usando shields.io para visualmente destacar os métodos.
-2. **Extras:** Requisitos, como lidar com problemas e links úteis.
-3. **Configuração Pós-Instalação:** Orientações para garantir que tudo esteja funcionando corretamente.
-
-Você pode copiar e usar diretamente no arquivo **`Installation.md`** do seu repositório de documentação.
