@@ -357,7 +357,7 @@
 '354': +
 ---
 
-# Introduction
+# Introdução
 
 ### **🎯 O que é este sistema?**
 
@@ -426,7 +426,7 @@ Se esta é sua primeira vez usando o sistema, recomendamos as seguintes páginas
 
 1. [**Introdução**](./)**:** Uma visão geral mais detalhada sobre o funcionamento do sistema.
 2. [**Instalação**](pt-br/Instalação.md)**:** Aprenda como instalar o sistema no Unity.
-3. [**Guia de Uso**](broken-reference)**:** Saiba como configurar e usar modificadores básicos, temporários e customizados.
+3. [**Guia de Uso**](pt-br/GuiaDeUso.md)**:** Saiba como configurar e usar modificadores básicos, temporários e customizados.
 
 Se tiver dúvidas ou encontrar dificuldades, visite nossa seção de [**FAQ**](FAQ.md) ou entre em contato pela página de [**Suporte**](Support.md).
 
