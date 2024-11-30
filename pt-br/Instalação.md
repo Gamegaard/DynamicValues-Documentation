@@ -1,3 +1,7 @@
+---
+description: Aprenda a adicionar em seu projeto
+---
+
 # Instalação
 
 ***

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introdução](README.md)
 * [Instalação](pt-br/Instalação.md)
 * [Guia de Uso](pt-br/GuiaDeUso.md)
 * [Referencias](referencias/README.md)
