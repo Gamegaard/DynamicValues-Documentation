@@ -425,8 +425,8 @@ Seja para ajustar a **vida máxima** de um personagem, adicionar **efeitos tempo
 Se esta é sua primeira vez usando o sistema, recomendamos as seguintes páginas para começar:
 
 1. [**Introdução**](./)**:** Uma visão geral mais detalhada sobre o funcionamento do sistema.
-2. [**Instalação**](pt-br/Instalação.md)**:** Aprenda como instalar o sistema no Unity.
-3. [**Guia de Uso**](pt-br/GuiaDeUso.md)**:** Saiba como configurar e usar modificadores básicos, temporários e customizados.
+2. [**Instalação**](introducao/instalacao.md)**:** Aprenda como instalar o sistema no Unity.
+3. [**Guia de Uso**](introducao/guiadeuso.md)**:** Saiba como configurar e usar modificadores básicos, temporários e customizados.
 
 Se tiver dúvidas ou encontrar dificuldades, visite nossa seção de [**FAQ**](FAQ.md) ou entre em contato pela página de [**Suporte**](Support.md).
 
