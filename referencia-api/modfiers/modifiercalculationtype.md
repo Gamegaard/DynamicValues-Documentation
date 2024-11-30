@@ -1,3 +1,7 @@
+---
+icon: file
+---
+
 # ModifierCalculationType
 
 Namespace:

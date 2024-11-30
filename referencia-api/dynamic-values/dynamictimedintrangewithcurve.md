@@ -1,3 +1,7 @@
+---
+icon: file
+---
+
 # DynamicTimedIntRangeWithCurve
 
 Namespace:

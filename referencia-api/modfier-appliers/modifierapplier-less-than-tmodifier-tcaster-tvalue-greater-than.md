@@ -1,3 +1,7 @@
+---
+icon: file
+---
+
 # ModifierApplier\<TModifier, TCaster, TValue>
 
 Namespace:

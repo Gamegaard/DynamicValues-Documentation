@@ -1,3 +1,7 @@
+---
+icon: scale-balanced
+---
+
 # Comparação de Abordagens
 
 Nesta seção, comparamos três formas de gerenciar atributos dinâmicos em um sistema de regeneração de vida: **código manual**, **`TimedFloatRange`** e **`DynamicTimedFloatRange`**.

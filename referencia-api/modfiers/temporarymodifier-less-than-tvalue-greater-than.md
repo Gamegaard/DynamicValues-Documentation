@@ -1,3 +1,7 @@
+---
+icon: file
+---
+
 # TemporaryModifier\<TValue>
 
 Namespace:

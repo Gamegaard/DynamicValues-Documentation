@@ -1,3 +1,7 @@
+---
+icon: file
+---
+
 # FloatModifierApplier\<TCaster>
 
 Namespace:

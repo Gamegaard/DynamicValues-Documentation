@@ -1,4 +1,5 @@
 ---
+icon: book-open
 layout:
   title:
     visible: true

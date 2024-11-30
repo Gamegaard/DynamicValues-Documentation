@@ -1,3 +1,7 @@
+---
+icon: file
+---
+
 # DynamicTimedFloatRangeWithCurve
 
 Namespace:

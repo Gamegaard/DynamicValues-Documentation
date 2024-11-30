@@ -1,3 +1,7 @@
+---
+icon: file
+---
+
 # ValueRange\<TValue>
 
 Namespace:

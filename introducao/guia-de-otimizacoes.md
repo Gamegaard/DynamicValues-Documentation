@@ -1,3 +1,7 @@
+---
+icon: bolt
+---
+
 # Guia de Otimizações
 
 Este guia visa fornecer práticas e dicas para maximizar a eficiência do sistema de modificadores, garantindo que ele funcione de forma eficaz em projetos com alta complexidade ou alto número de instâncias.

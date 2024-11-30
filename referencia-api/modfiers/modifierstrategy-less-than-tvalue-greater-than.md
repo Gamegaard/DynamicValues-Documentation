@@ -1,3 +1,7 @@
+---
+icon: file
+---
+
 # ModifierStrategy\<TValue>
 
 Namespace:

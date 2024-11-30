@@ -1,5 +1,6 @@
 ---
 description: Aprenda a adicionar em seu projeto
+icon: screwdriver-wrench
 ---
 
 # Instalação

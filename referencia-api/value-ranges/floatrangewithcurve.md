@@ -1,3 +1,7 @@
+---
+icon: file
+---
+
 # FloatRangeWithCurve
 
 Namespace:

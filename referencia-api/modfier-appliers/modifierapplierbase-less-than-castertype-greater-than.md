@@ -1,3 +1,7 @@
+---
+icon: file
+---
+
 # ModifierApplierBase\<CasterType>
 
 Descrição:
