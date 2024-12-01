@@ -6,6 +6,10 @@ icon: scale-balanced
 
 Nesta seção, comparamos três formas de gerenciar atributos dinâmicos em um sistema de regeneração de vida: **código manual**, **`TimedFloatRange`** e **`DynamicTimedFloatRange`**.
 
+
+
+<figure><img src="../.gitbook/assets/from-to (1).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### **Código Nativo/Manual**

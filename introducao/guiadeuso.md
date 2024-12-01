@@ -218,7 +218,7 @@ public class SimpleValueExample : MonoBehaviour
 O `FloatRange` representa um intervalo entre dois valores (`MinValue` e `MaxValue`) sem modificadores aplicados. Você pode manipular esses valores diretamente.
 
 ```csharp
-csharpCopiar códigousing UnityEngine;
+using UnityEngine;
 
 public class SimpleValueExample : MonoBehaviour
 {
